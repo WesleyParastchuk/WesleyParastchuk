@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Estou em busca de novos projetos<br>🌱 Estou aprendendo mais sobre TypeScript, ReactJs e NodeJs.<br>💬 Estudo programação desde 2019 e estou cursando TADS na UFPR. Estou em busca de novos projetos.<br>
+🔭 Programador aficcionado por empreendedorismo em busca de novos desafios.<br>🌱 Sempre aprimorando minha stack e aprendendendo novas tecnologias.<br>💬 Estudo programação desde 2019 e estou cursando Análise e Desenvolvimento de Sistemas na UFPR - Campus Curitiba.<br>
 
 ## 🌐 Socials:
 
@@ -16,10 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=WesleyParastchuk&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WesleyParastchuk&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyParastchuk&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
