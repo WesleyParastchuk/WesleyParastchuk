@@ -1,25 +1,39 @@
-# Wesley Parastchuk
+<div align="center">
 
-Desenvolvedor full stack em Java/Spring Boot e Node.js, formado em Análise e Desenvolvimento de Sistemas pela UFPR. Estagiei 16 meses no Banco do Brasil, onde integrei mais de 25 sistemas internos num portal único, otimizei um banco legado com mais de 1 milhão de registros e apoiei a equipe em APIs com Node.js e PHP, processos ETL e na sustentação de servidores SUSE Linux. Hoje trabalho como freelancer. Curitiba, PR · aberto a vagas júnior.
+# Olá, sou o Wesley 👋
 
-Experiência completa no [LinkedIn](https://www.linkedin.com/in/wesleyparastchuk/).
+**Desenvolvedor Full Stack · Java, Spring Boot e Node.js**
 
-## Projetos em destaque
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyparastchuk/) [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wespk.vercel.app) [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyparastchuk@gmail.com) ![Inglês B2](https://img.shields.io/badge/Ingl%C3%AAs%20B2-1F6FEB?style=for-the-badge)
 
-| Projeto | O que é | Stack |
+</div>
+
+### 👤 Sobre mim
+
+- Formado em Análise e Desenvolvimento de Sistemas pela **UFPR**
+- **16 meses no Banco do Brasil**: integrei +25 sistemas internos num portal único, otimizei um banco legado com +1 milhão de registros e apoiei a equipe em APIs (Node.js e PHP), ETL e servidores SUSE Linux
+- Hoje: **freelancer** em Java/Spring Boot
+- Curitiba, PR · aberto a vagas · [experiência completa no LinkedIn](https://www.linkedin.com/in/wesleyparastchuk/)
+
+### 🚀 Projetos em destaque
+
+| Projeto | Sobre | Stack |
 | --- | --- | --- |
-| Fiscos *(em desenvolvimento)* | Processa NFC-e de vários estados com mineração de dados, integração com IA e um modelo de NLP próprio que classifica descrições de produtos | Java, Spring Boot, Python, RabbitMQ, PostgreSQL, MongoDB, Docker |
-| [AlzCare](https://github.com/TCC-Sistema-Alzhaimer/tcc_acompanhamento_alzheimer) | TCC em equipe: acompanhamento de pacientes com Alzheimer, com deploy na Azure | Java, Spring Boot, React, React Native, PostgreSQL, Azure |
-| [iLovee](https://ilovee.vercel.app/pt) | Produto no ar: sites de presente com pagamento via Stripe em 5 idiomas | Next.js, TypeScript, MongoDB, Stripe |
-| [Fly High](https://github.com/DAC-Empresa-Aerea/empresa-aerea) | Projeto acadêmico em equipe: passagens aéreas em microsserviços | Java, Spring Boot, RabbitMQ, PostgreSQL, Docker |
+| **Fiscos** *(em desenvolvimento)* | Leitura de NFC-e com mineração de dados, IA e modelo de NLP próprio | Java · Spring Boot · Python |
+| **[AlzCare](https://github.com/TCC-Sistema-Alzhaimer/tcc_acompanhamento_alzheimer)** | TCC: acompanhamento de pacientes com Alzheimer, deploy na Azure | Java · Spring Boot · React Native |
+| **[iLovee](https://ilovee.vercel.app/pt)** | Produto no ar: sites de presente com Stripe, em 5 idiomas | Next.js · TypeScript · MongoDB |
+| **[Fly High](https://github.com/DAC-Empresa-Aerea/empresa-aerea)** | Projeto acadêmico: passagens aéreas em microsserviços | Java · RabbitMQ · Docker |
 
-## Tecnologias
+### 💻 Tech Stack
 
-- **Backend:** Java, Spring Boot, Node.js, NestJS, PHP, Python
-- **Dados e IA:** PostgreSQL, MySQL, DB2, MongoDB, Redis, ETL, NLP, integração com LLMs
-- **Front-end:** TypeScript, React, Vue.js, Next.js
-- **Infra:** Docker, RabbitMQ, Azure, SUSE Linux, Git
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Contato
+**Dados e IA**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![DB2](https://img.shields.io/badge/DB2-000000?style=for-the-badge&logo=ibm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/wesleyparastchuk/) · [Portfólio](https://wespk.vercel.app) · wesleyparastchuk@gmail.com · Inglês B2 ([EF SET](https://cert.efset.org/pt/TjQnq5))
+**Front-end e mobile**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Infra**  
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge) ![SUSE Linux](https://img.shields.io/badge/SUSE%20Linux-30BA78?style=for-the-badge&logo=suse&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
