@@ -11,18 +11,19 @@
 ### 👤 Sobre mim
 
 - Formado em Análise e Desenvolvimento de Sistemas pela **UFPR**
-- **16 meses no Banco do Brasil**: integrei +25 sistemas internos num portal único, otimizei um banco legado com +1 milhão de registros e apoiei a equipe em APIs (Node.js e PHP), ETL e servidores SUSE Linux
-- Hoje: **freelancer** em Java/Spring Boot
+- **Hoje (freelance):** construo do zero o backend (Java 17 e Spring Boot) de uma plataforma de assinaturas para famílias nos EUA e na Europa, com Stripe, App Store e Google Play num só controle de acesso e 90% de cobertura de testes
+- **16 meses no Banco do Brasil:** principal responsável por um portal que reuniu +25 sistemas para funcionários de todo o país, buscas SQL até 95% mais rápidas e um banco legado de +1 milhão de registros remodelado para a 3FN
 - Curitiba, PR · aberto a vagas · [experiência completa no LinkedIn](https://www.linkedin.com/in/wesleyparastchuk/)
 
 ### 🚀 Projetos em destaque
 
 | Projeto | Sobre | Stack |
 | --- | --- | --- |
-| **Fiscos** *(em desenvolvimento)* | Leitura de NFC-e com mineração de dados, IA e modelo de NLP próprio | Java · Spring Boot · Python |
+| **Fiscos** | Lê o QR code da NFC-e e classifica os produtos com um modelo de NLP próprio, em microsserviços via RabbitMQ | Java · Spring Boot · Python · RabbitMQ |
 | **[AlzCare](https://github.com/TCC-Sistema-Alzhaimer/tcc_acompanhamento_alzheimer)** | TCC: acompanhamento de pacientes com Alzheimer, deploy na Azure | Java · Spring Boot · React Native |
 | **[iLovee](https://ilovee.vercel.app/pt)** | Produto no ar: sites de presente com Stripe, em 5 idiomas | Next.js · TypeScript · MongoDB |
 | **[Fly High](https://github.com/DAC-Empresa-Aerea/empresa-aerea)** | Projeto acadêmico: passagens aéreas em microsserviços | Java · RabbitMQ · Docker |
+| **[Lobby Civ VI](https://github.com/WesleyParastchuk/civ-generator)** | Lobby em tempo real em que os jogadores votam por turnos nas regras da partida de Civilization VI | Next.js · TypeScript · PartyKit |
 
 ### 💻 Tech Stack
 
